@@ -22,7 +22,7 @@ JavaScript, Python, Lua
 Web basics: HTML, CSS
 <br>
 Scripting & automation: Batch, PowerShell, Bash
-## My Goals For This Profile
+## My Goal
 Ship high-quality projects in C# and related ecosystems
 <br>
 Learn and apply cybersecurity skills (offense and defense)
