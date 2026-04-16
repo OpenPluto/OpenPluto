@@ -6,6 +6,7 @@ A discord bot, called blissful (open src) scripted in python
 Make a fully functional discord bot for moderation and just fun
 # The tools I use 🔨
 Tabby Terminal
+<br>
 VS Code
 <br>
 Notepad++
