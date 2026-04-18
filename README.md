@@ -5,6 +5,8 @@ I also really love catppuccin themes
 # What I'm working on
 A discord bot, called blissful (open src) scripted in python
 # Goals 🎯
+Balance the Angel License to allow users to modify open source projects and use them for personal use. Not sell, resell, redistribute, and/or copy
+<br>
 Make a fully functional discord bot for moderation and just fun
 # The tools I use 🔨
 Tabby Terminal
