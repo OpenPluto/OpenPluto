@@ -1,35 +1,11 @@
-# Welcome to my evil github profile, kitties.. 🐱
-I'm a 13 year old who loves programming, playing games, and debugging my code..
-<br>
-I also really love catppuccin themes
-# What I'm working on
-A discord bot, called blissful (open src) scripted in python
-# Goals 🎯
-Balance the Angel License to allow users to modify open source projects and use them for personal use. Not sell, resell, redistribute, and/or copy
-<br>
-Make a fully functional discord bot for moderation and just fun
-# The tools I use 🔨
-Tabby Terminal
-<br>
-VS Code
-<br>
-Notepad++
-<br>
-Pycharm
-<br>
-Intelij idea
-<br>
-Visual studio
-# What I work on 💻
-A school computer.. 16 gb of ram though! 
-# Top 3 songs 🎵
-Cicada - Good kid
-<br>
-She said no - boywithuke
-<br>
-treehouse - alex g
-<br>
-<br>
+## Welcome!
+if you want a an introduction to me go on my website -> https://meowwangel.github.io/
+# To do:
+Update the discord bot to have moderation features with a admin/owner permission check
+Add a free anime command to the discord bot that searches on other sources to find a link to a free anime streaming website with the anime specified in the query
+# The tools (software) I use
+Visual Studio Code with extensions <img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/e18fe0e9-5de4-48a6-a5eb-d2f9d77de908" />
+
 **Discord: plutomeow**
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meowwangel&show_icons=true&theme=tokyonight)
